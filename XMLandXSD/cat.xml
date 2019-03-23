@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="cat.xsd">
+    <about>
+        <title>Cat Adoption Platform</title>
+        <author fistName="Yufei" lastName="Li"/>
+        <description>
+            <p>Yufei is a second-year graduate student in the iSchool. She is specialized in <b>Data
+                    Science</b> and <b>Business Intelligence</b>.</p>
+            <br/>
+            <p>In her spare time, she loves</p>
+            <ul>
+                <li>Swimming</li>
+                <li>Playing with <i>cats</i></li>
+            </ul>
+            <br/>
+        </description>
+    </about>
+    <breeds>
+        <breed breedId="Breed">
+            <name>Breeds</name>
+            <breed breedId="Breed_0">
+                <name>Domestic Cats</name>
+                <breed breedId="Breed_01">
+                    <name>Domestic Medium Hair/Mix</name>
+                    <catRefId>CAT_40667429</catRefId>
+                    <catRefId>CAT_40722176</catRefId>
+                    <catRefId>CAT_40627497</catRefId>
+                    <catRefId>CAT_40565883</catRefId>
+                    <catRefId>CAT_40722239</catRefId>
+                    <catRefId>CAT_40618814</catRefId>
+                    <catRefId>CAT_40583096</catRefId>
+                </breed>
+                <breed breedId="Breed_02">
+                    <name>Domestic Longhair/Mix</name>
+                    <catRefId>CAT_40492066</catRefId>
+                    <catRefId>CAT_40722192</catRefId>
+                </breed>
+                <breed breedId="Breed_03">
+                    <name>Domestic Shorthair/Mix</name>
+                    <catRefId>CAT_40722652</catRefId>
+                    <catRefId>CAT_40683211</catRefId>
+                    <catRefId>CAT_40693257</catRefId>
+                    <catRefId>CAT_40598525</catRefId>
+                    <catRefId>CAT_40722228</catRefId>
+                    <catRefId>CAT_39360040</catRefId>
+                </breed>
+            </breed>
+        </breed>
+
+    </breeds>
+    <alphabeticalIndex>
+        <letter>
+            <name>A-G</name>
+            <catRefId>CAT_40667429</catRefId>
+            <catRefId>CAT_40722176</catRefId>
+            <catRefId>CAT_40492066</catRefId>
+            <catRefId>CAT_40722652</catRefId>
+            <catRefId>CAT_40627497</catRefId>
+            <catRefId>CAT_40722192</catRefId>
+            <catRefId>CAT_40683211</catRefId>
+        </letter>
+        <letter>
+            <name>H-M</name>
+            <catRefId>CAT_40693257</catRefId>
+            <catRefId>CAT_40598525</catRefId>
+            <catRefId>CAT_40722239</catRefId>
+            <catRefId>CAT_40722228</catRefId>
+            <catRefId>CAT_40565883</catRefId>
+        </letter>
+        <letter>
+            <name>N-Z</name>
+            <catRefId>CAT_39360040</catRefId>
+            <catRefId>CAT_40618814</catRefId>
+            <catRefId>CAT_40583096</catRefId>
+        </letter>
+    </alphabeticalIndex>
+    <cats>
+        <cat id="CAT_40667429" age="1 year 6 month 10 days">
+            <name>Brooklynn</name>
+            <description>
+                <p><b>Brooklynn</b> is a gorgeous one and a half year old tuxedo ready to go home!
+                    Brooklynn came to <pubMentioned>Homeward</pubMentioned>
+                    <xref id="homeward" type="web" dest="https://www.homewardpet.org/events-new/">
+                        <xrefText> (<hotText>https://www.homewardpet.org/events-new/</hotText>)
+                        </xrefText>
+                    </xref> after her family was no longer able to care for her. She has lived with
+                    cats and dogs before and did well with both.</p>
+                <p>It is:</p>
+                <ul>
+                    <li>soft</li>
+                    <li>lovely</li>
+                </ul>
+                <p>Come meet <b>Brooklynn</b> today!</p>
+                <p>Brooklynn will likely do well with <i>slightly older kids</i> that can handle her
+                    gently and participate in her care. </p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Medium Hair/Mix</breed>
+                <gender>Female</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Black/White</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>100 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40667429.jpg" caption="Brooklynn"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40722652</catRefId>
+                <catRefId>CAT_40722228</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Brooklynn</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40722176" age="6 months 4 days">
+            <name>Bronco</name>
+            <description>
+                <p>Bronco is a sweet 6 month old adolescent that is ready romp around with his new
+                    family! Bronco, like most other young cats, has plenty of energy, and would do
+                    best in a home that will give him lots of playtime. We don't know if Bronco has
+                    lived with other cats or dogs before, so introductions should be done slowly.
+                    Bronco would likely do best with slightly older kids that understand how to
+                    handle him gently.</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Medium Hair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Black/Smoke</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>100 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40722176.jpg" caption="Bronco"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40693257</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Bronco</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40492066" age="5 years 1 month 7 days">
+            <name>Bugsy</name>
+            <description>
+                <p>Bugsy is a Staff Pick! Meet Bugsy! This adorably fluffy orange tabby is looking
+                    for the loving home he so deserves. Bugsy was rescued from a hoarding situation
+                    and was in need of medical care when he arrived. Bugsy had an old injury to one
+                    of his eyes, and that eye needed to be removed. He is now on the mend and
+                    healing well, and will adjust to life with just one eye without any issues.
+                    Bugsy is understandably feeling a little shy in the busy shelter, but don't pass
+                    him by! He is a super sweet and gentle kitty, whose personality will start to
+                    blossom once he feels safe. With love and patience, we think this guy could be
+                    compatible with gentle older children that can give him space while he adjusts
+                    to his new home. Bugsy is positive for feline immunodeficiency virus - an easy
+                    illness to manage (though he should be the only cat in the home, or live with
+                    other FIV positive cats). We are not sure if Bugsy has lived with dogs before,
+                    so slow and gradual introductions are recommended. Come in and meet Bugsy
+                    today!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Longhair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Orange</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>75 dollars</adoptionPrice>
+            <location> Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40492066.jpg" caption="Bugsy"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40627497</catRefId>
+                <catRefId>CAT_40683211</catRefId>
+                <catRefId>CAT_40565883</catRefId>
+                <catRefId>CAT_40618814</catRefId>
+                <catRefId>CAT_40583096</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Bugsy</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40722652" age="2 months 11 days">
+            <name>Cupid</name>
+            <description>
+                <p> Cupid is a playful kitten that is ready to find his forever home! He is a very
+                    curious and active kitten that loves playing with feather toys and chasing
+                    anything that makes a crinkling sound. He definitely needs another kitten buddy
+                    at home! All kittens are active and playful and looking for homes that can
+                    provide them with daily playtime and lots of interaction - it is important for
+                    kittens to get handled regularly so they get used to being pet and touched. They
+                    also need to be taught that hands are not toys and skin is not for biting. Due
+                    to their social needs and energy levels, Homeward Pet advises that kittens be
+                    adopted in pairs or into homes with another young cat. Kittens are fragile and
+                    require careful handling, so we recommend that families with children under 5
+                    years of age do not adopt young kittens (under 4 months). Come down and meet
+                    this gregarious little kitty today!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Shorthair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Black/White</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>125 dollars</adoptionPrice>
+            <location> Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40722652.jpg" caption="Cupid"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40667429</catRefId>
+                <catRefId>CAT_40722228</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Cupid</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40627497" age="12 years 24 days">
+            <name>Dali</name>
+            <description>
+                <p>Dali is a beautiful twelve year old brown and orange torbie with bright eyes and
+                    a sweet purrsonality. She came to Homeward with limited history so we are not
+                    sure if she has lived with any other cats or dogs before. Dali is a gentle gal
+                    that would prefer a calm existence. A home with older kids that can handle her
+                    gently would be best. Come spend some time with Dali and fall in love with her
+                    today!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Medium Hair/Mix</breed>
+                <gender>Female</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Brown/Orange</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>50 dollars</adoptionPrice>
+            <location> Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40627497.jpg" caption="Dali"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40492066</catRefId>
+                <catRefId>CAT_40683211</catRefId>
+                <catRefId>CAT_40565883</catRefId>
+                <catRefId>CAT_40618814</catRefId>
+                <catRefId>CAT_40583096</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Dali</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40722192" age="7 months 4 days">
+            <name>Decoy</name>
+            <description>
+                <p>Decoy is a sweet 6 month old adolescent that is ready romp around with his new
+                    family! Decoy, like most other young cats, has plenty of energy, and would do
+                    best in a home that will give him lots of playtime. We don't know if Decoy has
+                    lived with other cats or dogs before, so introductions should be done slowly.
+                    Decoy would likely do best with slightly older kids that understand how to
+                    handle him gently.</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Longhair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Black</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>100 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40722192.jpg" caption="Decoy"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40667429</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Decoy</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40683211" age="5 months 9 days">
+            <name>Finn</name>
+            <description>
+                <p> Come meet Finn! At about 5 months old, this sweet guy will keep you busy
+                    playing. He lived with his litter mates and did well, but any introductions to
+                    resident cats should be done slowly. He can be shy, especially in new
+                    situations, so he's looking for a quiet home with older kids that can handle him
+                    gently. Finn is ready to go home with you!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Shorthair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Orange/White</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>100 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40683211.jpg" caption="Finn"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40627497</catRefId>
+                <catRefId>CAT_40492066</catRefId>
+                <catRefId>CAT_40565883</catRefId>
+                <catRefId>CAT_40618814</catRefId>
+                <catRefId>CAT_40583096</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Finn</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40693257" age="9 months 13 days">
+            <name>Huckleberry</name>
+            <description>
+                <p>Huckleberry is a friendly nine month old brown tabby that can't wait to meet you!
+                    He has lived with a cat and dogs before and did well with both. Huckleberry will
+                    likely do well with slightly older kids that can handle him gently and
+                    participate in his care. Come meet Huckleberry today!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Shorthair/Mix </breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Brown</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>100 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40693257.jpg" caption="Huckleberry"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40722176</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Huckleberry</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40598525" age="10 years 23 days">
+            <name>Joe</name>
+            <description>
+                <p>Sweet Joe is looking for a mellow home to call his own. He came to Homeward when
+                    his family was no longer able to care for him. Joe has lived with cats before
+                    and did not enjoy them, he is now looking for a cat free home. He has also lived
+                    with a very energetic dog before, he did not enjoy that energy level but may be
+                    successful living with another very mellow dog that is respectful of his space.
+                    Joe prefers a calm environment and would be overwhelmed around younger kids. He
+                    will likely do best in a home with older kids and teens that can participate in
+                    his care. Come meet Joe today!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Shorthair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Large</size>
+                <color>Black</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>50 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40598525.jpg" caption="Joe"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40722239</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Joe</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40722239" age="6 months 4 days">
+            <name>Kenya</name>
+            <description>
+                <p>Are you looking to add 5 pounds of sweetness to your life? Kenya might be the
+                    right kitty for you! Kenya, like most young cats, is high energy, so she would
+                    do best in a home that can give her lots of play time and help teach her proper
+                    cat manners. Kenya came to us with limited history so we don't know if she's
+                    lived with other cats or dogs before. Any introductions to new animal friends
+                    should be done slowly. Kenya would likely do best with kids that are slightly
+                    older, and that would be able to handle her gently.</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Medium Hair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Black</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>100 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40722239.jpg" caption="Kenya"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40598525</catRefId>
+                <catRefId>CAT_39360040</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Kenya</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40722228" age="7 months 4 days">
+            <name>Kotten</name>
+            <description>
+                <p>Are you looking to add a handsome purr bucket to your household? Look no further
+                    than Kotten! Kotton is a social and active 7 month old adolescent. He would
+                    thrive best in a home where the people are able to give multiple daily playtimes
+                    and give him time to be the social butterfly that he is. Kotton came to us with
+                    limited history so we don't know if he's lived with other cats or dogs before.
+                    Any introductions to new four legged friends should be done slowly. Kotton would
+                    likely do okay with slightly older kids that are able to handle him gently.</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Short Hair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Cream/Seal</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>100 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40722228.jpg" caption="Kotten"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40667429</catRefId>
+                <catRefId>CAT_40722652</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Kotten</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40565883" age="4 years 1 month 8 days">
+            <name>Lilly</name>
+            <description>
+                <p> Lilly is a darling 4 year old tortie looking for her forever home! This gal is a
+                    sensitive soul, and would like a quiet, mellow place with just adults and no
+                    other animals. Lilly's next home should understand that she'll need time to
+                    adjust to the new environment slowly.Though Lilly can be a bit shy and reserved
+                    at first, once she warms up she'll make biscuit after biscuit for you. You know
+                    you've won her over when she starts nudging your hand for more head pets and you
+                    start to hear her deep purr. When Lilly is comfortable with new friends she does
+                    like to curl up on laps, and play with her toys too. Come in to meet this love
+                    bug today!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Medium Hair/Mix</breed>
+                <gender>Female</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Black/Orange</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>75 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40565883.jpg" caption="Lilly"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40627497</catRefId>
+                <catRefId>CAT_40492066</catRefId>
+                <catRefId>CAT_40683211</catRefId>
+                <catRefId>CAT_40618814</catRefId>
+                <catRefId>CAT_40583096</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Lilly</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_39360040" age="6 years 6 months 1 day">
+            <name>Nico</name>
+            <description>
+                <p>Do you like playful kitties? Then Nico is your guy! Nico is about 6 years old and
+                    loves to play - especially with mice and stick toys. Nico is looking to be the
+                    only pet in the home, he loves to soak up all of your affection! Because Nico
+                    can be shy in new situations, he's looking for a mellow home with older kids and
+                    teens. Come meet this handsome guy today!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Shorthair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Black</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>75 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_39360040.jpg" caption="Nico"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40598525</catRefId>
+                <catRefId>CAT_40722239</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Nico</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40618814" age="7 years 19 days">
+            <name>Oliver</name>
+            <description>
+                <p> Looking to double the love in your life? You won't find a more loving pair of
+                    cats than Oliver and Suki! This bonded duo is super sweet, and very easy-going.
+                    They are quite bonded with each other, and would like to find their forever home
+                    together! They are loving and affectionate kitties that want nothing more than
+                    to snuggle, sit on laps, and be your new best friend. These wonderful cats have
+                    not lived with other cats or with dogs. They also haven't lived with children
+                    before but are so sweet and loving they may do just fine so long as kids are
+                    gentle, and understand that Oliver and Suki would rather snuggle than play.
+                    These two cool cats are the sweetest - come meet them today!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Shorthair/Mix</breed>
+                <gender>Male</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Orange/White</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>75 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40618814.jpg" caption="Oliver"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40492066</catRefId>
+                <catRefId>CAT_40627497</catRefId>
+                <catRefId>CAT_40683211</catRefId>
+                <catRefId>CAT_40565883</catRefId>
+                <catRefId>CAT_40583096</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Oliver</sourceRefId>
+            </source>
+        </cat>
+        <cat id="CAT_40583096" age="1 year 9 months 4 days">
+            <name>Pixie</name>
+            <description>
+                <p> Sweet as can be - that's miss Pixie! Pixie is a 1 year old tortie with an
+                    adorable purrsonality. She loves to cuddle, but also has a playful side and
+                    enjoys toys and climbing cat trees. Watching birds out the window is also high
+                    on her list! Pixie can be shy, so she's looking for a home with older kids that
+                    can let her settle in at her own pace. She lived with another cat before that
+                    picked on her, so she's hoping that any future furry friends are mellow and give
+                    her her own space. We don't know if she's met dogs before. Come meet this lovely
+                    gal today!</p>
+                <br/>
+            </description>
+            <specs>
+                <breed>Domestic Shorthair/Mix</breed>
+                <gender>Female</gender>
+                <spayed>true</spayed>
+                <size>Medium</size>
+                <color>Black/Orange</color>
+                <declawed>false</declawed>
+            </specs>
+            <adoptionPrice>75 dollars</adoptionPrice>
+            <location>Cat Room </location>
+            <site>Homeward Pet Adoption Center</site>
+            <images>
+                <image fileName="CAT_40583096.jpg" caption="Pixie"/>
+            </images>
+            <relatedCats>
+                <catRefId>CAT_40492066</catRefId>
+                <catRefId>CAT_40627497</catRefId>
+                <catRefId>CAT_40683211</catRefId>
+                <catRefId>CAT_40565883</catRefId>
+                <catRefId>CAT_40618814</catRefId>
+            </relatedCats>
+            <source>
+                <sourceRefId>Pixie</sourceRefId>
+            </source>
+        </cat>
+    </cats>
+    <sequences>
+        <sequence>
+            <catRefId>CAT_40722652</catRefId>
+            <catRefId>CAT_40683211</catRefId>
+            <catRefId>CAT_40722176</catRefId>
+            <catRefId>CAT_40722239</catRefId>
+            <catRefId>CAT_40722192</catRefId>
+            <catRefId>CAT_40722228</catRefId>
+            <catRefId>CAT_40693257</catRefId>
+            <catRefId>CAT_40667429</catRefId>
+            <catRefId>CAT_40583096</catRefId>
+            <catRefId>CAT_40565883</catRefId>
+            <catRefId>CAT_40492066</catRefId>
+            <catRefId>CAT_39360040</catRefId>
+            <catRefId>CAT_40618814</catRefId>
+            <catRefId>CAT_40598525</catRefId>
+            <catRefId>CAT_40627497</catRefId>
+        </sequence>
+    </sequences>
+    <sourceDefs>
+        <sourceDef id="Brooklynn">
+            <name>Brooklynn</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Brooklynn from this website.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Bronco">
+            <name>Bronco</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Bronco from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Bugsy">
+            <name>Bugsy</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Bugsy from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Cupid">
+            <name>Cupid</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Cupid from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Dali">
+            <name>Dali</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Dali from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Decoy">
+            <name>Decoy</name>
+            <url><![CDATA[https://www.homewardpet.org/weve-been-adopted/]]></url>
+            <description>
+                <p>I fetched Decoy from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Finn">
+            <name>Finn</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Finn from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Huckleberry">
+            <name>Huckleberry</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Huckleberry from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Joe">
+            <name>Joe</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Joe from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Kenya">
+            <name>Kenya</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Kenya from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Kotten">
+            <name>Kotten</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Kotten from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Lilly">
+            <name>Lilly</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Lilly from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Nico">
+            <name>Nico</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Nico from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Oliver">
+            <name>Oliver</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Oliver from this webpage.</p>
+            </description>
+        </sourceDef>
+        <sourceDef id="Pixie">
+            <name>Pixie</name>
+            <url><![CDATA[https://www.homewardpet.org/available-cats-kittens/]]></url>
+            <description>
+                <p>I fetched Pixie from this webpage.</p>
+            </description>
+        </sourceDef>
+    </sourceDefs>
+</catBase>
